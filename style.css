@@ -1,4 +1,12 @@
+html,
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+
 #mapid {
-    height: 580px;
+    height: 100%;
     box-shadow: 0px 0px 5px blue;
+    margin: auto;
 }
